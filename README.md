@@ -33,6 +33,7 @@ Here is my schematic:
 
 
 and my PCB:
+
 <img width="320" height="620" alt="Screenshot 2026-03-21 at 07 24 26" src="https://github.com/user-attachments/assets/0f77e4ee-6894-46e9-b853-8eae447484ab" />
 
 
