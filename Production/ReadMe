@@ -1,0 +1,4 @@
+Hi! This folder contain all the production notes that you need if you wanted to print this in JLCPCB
+FIrst, there is the gerber zip files which contain all the gerber files that you need to summon the 3D looks of this dev board.
+Then there is also the BOM and POS file that you need to input if you want to do a PCBA / PCB Assembly
+If you don't do the PCBA you need to buy the part separated and then handsolder it
