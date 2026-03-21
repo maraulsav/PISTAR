@@ -3,13 +3,13 @@ My first custom development board. I plan to made it as a part of my drone proje
 
 ## 3D View
 Front
+
 <img width="402" height="681" alt="Screenshot 2026-03-21 at 07 20 37" src="https://github.com/user-attachments/assets/c149c8dd-8666-4ec8-8852-5e56782cb66d" />
 
 
 Back
 
-
-<img width="762" height="358" alt="Screenshot 2026-03-21 at 07 22 27" src="https://github.com/user-attachments/assets/49cd3890-cdc6-47c9-97f0-ce50be636076" />
+<img width="94" height="190" alt="Screenshot 2026-03-21 at 18 49 06" src="https://github.com/user-attachments/assets/3aa22ce2-fa49-4865-a6a3-126af7fe582c" />
 
 
 ## PCB
