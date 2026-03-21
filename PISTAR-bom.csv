@@ -1,0 +1,5 @@
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"UPS Shipping","Shipping the JLCPCB",2.48,1,2.48,"https://cart.jlcpcb.com/shopcart/cart","JLCPCB"
+"Pin Header Delivery ","Delivering the pin header",0.83,1,0.83,"https://www.tokopedia.com/cart/checkout?t_id=1774050616052&t_st=3&t_pp=cart&t_efo=cart&t_ef=goods_search&t_sm=&t_spt=cart","Tokopedia"
+"Pin Header 1x40   2x","For the GPIO pins ",0.11,1,0.11,"https://www.tokopedia.com/parts-shop/pin-header-male-1-x-40-pin-254mm-single-row?extParam=ivf%3Dfalse%26keyword%3Dpin+header%26search_id%3D2026032023494534ED066DF378EF117KRL%26src%3Dsearch&t_id=1774050616052&t_st=1&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result","Tokopedia"
+"PCB / PCBA","PCB printing and component assembly",78.06,1,78.06,"https://cart.jlcpcb.com/shopcart/cart","JLCPCB"
